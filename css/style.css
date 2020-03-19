@@ -45,7 +45,7 @@ p.heading-text{
 p.sub-headding{
     font-size: 250%; 
     color: aliceblue;
-    padding: 0% 0 10% 0%;
+    padding: 0% 0 8% 0%;
 }
 .mh-right-down h2{
     color: aliceblue;
@@ -75,6 +75,6 @@ p.sub-headding{
     }
     #particles-js{
         padding-top: 5%;
-        height: 1100px;
+        height: 1300px;
     }
   }
