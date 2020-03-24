@@ -1,2 +1,2 @@
-# nsrivastava999.github.io
-Personal Website, currently hosted on GitHub.
+Personal Website Repo
+Personal Website, currently hosted on GitHub at https://nsrivastava999.github.io/
